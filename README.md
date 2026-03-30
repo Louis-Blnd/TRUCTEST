@@ -1,0 +1,2 @@
+# TRUCTEST
+test scm
